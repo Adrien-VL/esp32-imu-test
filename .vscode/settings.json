@@ -1,0 +1,18 @@
+{
+    "idf.flashType": "UART",
+    "idf.port": "/dev/ttyUSB0",
+    "files.associations": {
+        "fusion.h": "c",
+        "task.h": "c",
+        "i2c.h": "c",
+        "math.h": "c",
+        "freertos.h": "c",
+        "mpu6050.h": "c",
+        "compare": "cpp",
+        "sdkconfig.h": "c",
+        "nmea.h": "c",
+        "nmea_util.h": "c",
+        "esp_idf_version.h": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}
